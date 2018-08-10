@@ -1,6 +1,6 @@
 <litepal>
-        <dbname value = "coolweather"/>
-        <version value="5"/>
+        <dbname value = "coolweatherdatase"/>
+        <version value="7"/>
     <list>
 
         <mapping class="com.example.administrator.coolweather.db.Province"/>
